@@ -2,3 +2,6 @@ ipykernel
 langchain-community 
 pypdf
 langchain-openai
+langchain 
+langchain-text-splitters 
+bs4
